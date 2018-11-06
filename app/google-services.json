@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "150255497093",
+    "firebase_url": "https://gapshap-89bb3.firebaseio.com",
+    "project_id": "gapshap-89bb3",
+    "storage_bucket": "gapshap-89bb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150255497093:android:80dd7703bec811bf",
+        "android_client_info": {
+          "package_name": "com.example.paras.gapshap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150255497093-gtvkt8556ume3quu7ps7st72nuc1nou2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.paras.gapshap",
+            "certificate_hash": "195bc85705639d9d52128fdca202bc6dffc7e271"
+          }
+        },
+        {
+          "client_id": "150255497093-d369mcm139kukvgcn16858g84r589nob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgH81hSGd_zq1tJEnGNFSo9QJ9YPQd49U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150255497093-d369mcm139kukvgcn16858g84r589nob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
